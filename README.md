@@ -1,5 +1,6 @@
-# DLCV-Fall-2022-HW3
+# CLIP
 
+DLCV-Fall-2022-HW3  
 Please click [this link](https://docs.google.com/presentation/d/1tza5rtruvOkoComWRS79Yb7IgM_R0pGLyrI4m8Jk5Xg/edit#slide=id.g10278b72a69_0_448) to view the slides of HW3
 
 # Usage
